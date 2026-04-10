@@ -84,7 +84,7 @@ No server. No install. No account. Just open `index.html` and start learning.
 
 ```bash
 # Clone the repo
-git clone https://github.com/surya-4220/gitpath.git
+git clone https://github.com/surya-4220/git-simulator.git
 
 # Navigate into the folder
 cd gitpath
